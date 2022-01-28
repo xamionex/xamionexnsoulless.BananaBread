@@ -1,6 +1,7 @@
 {
-	"Name" : "xamionexnsoulless.BananaBread",
-	"Description" : "Banana Bread",
-	"Version": "1.0.0",
-	"LoadPriority": 2
+	"Name" : "BananaBread.BananaBread",
+	"Description" : "Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread",
+	"Version": "1.0.1",
+	"LoadPriority": 10,
+	"RequiredOnClient": false
 }
