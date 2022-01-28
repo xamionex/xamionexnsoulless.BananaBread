@@ -10,7 +10,7 @@ Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread
 ![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
 
 # Install
-## Back up r2\media\ea.bik
+## Back up r2\media\ea.bik and menu_act01.bik
 - Download latest release
   - Extract it and open the folder
 - Open Titanfall 2 folder
