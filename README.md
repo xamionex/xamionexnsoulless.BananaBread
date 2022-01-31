@@ -19,12 +19,6 @@ Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread
     - Copy xamionexnsoulless.BananaBread to R2Northstar\mods
 - Launch game
 
-![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
-![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
-![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
-![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
-![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
-
 # Uninstall
 - Disable mod
 - Open Titanfall 2 folder
@@ -33,3 +27,9 @@ Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread
     - (OPTIONAL) remove killsounds1,2,3,4.bik inside r2\media
     - (OPTIONAL) remove banana_autoexec.cfg inside r2\cfg
 - Launch game
+
+![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
+![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
+![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
+![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
+![banan](https://user-images.githubusercontent.com/57235791/151543690-bd096cc1-24dd-4ef4-b525-768241711877.gif)
