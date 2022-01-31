@@ -19,6 +19,14 @@ Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread Banana Bread
     - Copy xamionexnsoulless.BananaBread to R2Northstar\mods
 - Launch game
 
+# Skin Only
+- Download latest release
+  - Extract it and open the folder
+  - Remove everything except vpk and mod.json
+- Open Titanfall 2 folder
+  - Copy xamionexnsoulless.BananaBread to R2Northstar\mods
+- Launch game
+
 # Uninstall
 - Disable mod
 - Open Titanfall 2 folder
