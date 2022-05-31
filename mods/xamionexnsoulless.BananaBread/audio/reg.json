@@ -1,0 +1,4 @@
+{
+	"EventId": [ "pilot_killed_indicator" ],
+	"AudioSelectionStrategy": "sequential"
+}
